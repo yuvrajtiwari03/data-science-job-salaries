@@ -60,7 +60,9 @@ The goal was to identify key **trends in salaries** and present findings through
 ## 🛠️ Tools & Technologies  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - **VS Code** for analysis  
-- **Git & GitHub** for version control  
+- **Git & GitHub** for version control
+
+- **Linkedin Profile:www.linkedin.com/in/yuvraj-tiwari-647a96245**
 
 ---
 
@@ -81,4 +83,3 @@ python analysis.py
 
 ✨ This project highlights how experience, job role, and geography shape salaries in the Data Science domain.
 
-**Linkedin Profile:www.linkedin.com/in/yuvraj-tiwari-647a96245**
