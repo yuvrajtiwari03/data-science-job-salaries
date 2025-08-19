@@ -59,7 +59,7 @@ The goal was to identify key **trends in salaries** and present findings through
 
 ## 🛠️ Tools & Technologies  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-- **Jupyter Notebook / VS Code** for analysis  
+- **VS Code** for analysis  
 - **Git & GitHub** for version control  
 
 ---
